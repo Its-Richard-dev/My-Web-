@@ -1,6 +1,3 @@
 second line
-<<<<<<< HEAD
 ammend
-=======
 the bugs has been fixed in second 
->>>>>>> 6f7acdb (the first and second bugs fixed)
