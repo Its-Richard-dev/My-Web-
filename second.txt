@@ -1,1 +1,2 @@
 second line
+the bugs has been fixed in second 
